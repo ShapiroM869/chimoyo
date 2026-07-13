@@ -3,5 +3,5 @@ numpy
 streamlit
 openpyxl
 matplotlib
-
+plotly
 
