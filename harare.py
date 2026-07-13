@@ -14,7 +14,7 @@ if "page" not in st.session_state:
 
 
 def home_page():
-    st.title("📌 CBZ Credit Risk Analytics Suite")
+    st.title("📌 Credit Risk Analytics Suite")
 
     st.markdown("### Select Functionality")
 
